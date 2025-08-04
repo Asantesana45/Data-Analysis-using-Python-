@@ -53,7 +53,7 @@ dataframe = pd.read_csv("/content/Zomato-data-.csv")
 print(dataframe.head())
 
 OUTPUT:
-![First 5 data](img/1.webp)
+![First 5 data](./img/1.webp)
 
 
 
