@@ -23,7 +23,7 @@ We aim to answer key questions such as:
 
 ## 🛠️ Implementation Steps
 
-
+![First 5 data](img/1.webp)
 ### Step 1: Import Required Libraries
 
 
@@ -53,7 +53,7 @@ dataframe = pd.read_csv("/content/Zomato-data-.csv")
 print(dataframe.head())
 
 OUTPUT:
-![First 5 data](../1.webp)
+![First 5 data](img/1.webp)
 
 
 
