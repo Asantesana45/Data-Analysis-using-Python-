@@ -23,11 +23,11 @@ We aim to answer key questions such as:
 
 ## 🛠️ Implementation Steps
 
-![First 5 data](img/1.webp)
+
 ### Step 1: Import Required Libraries
 
 
-```python
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
